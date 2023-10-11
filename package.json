@@ -12,14 +12,22 @@
     "@react-navigation/native": "^6.1.8",
     "@react-navigation/stack": "^6.3.18",
     "expo": "~49.0.13",
+<<<<<<< HEAD
     "expo-cli": "^6.3.10",
     "expo-router": "^2.0.9",
+=======
+    "expo-linear-gradient": "^12.5.0",
+>>>>>>> 71962609cc8d6022734e40828927ab0aca053e2a
     "expo-status-bar": "~1.6.0",
     "nativewind": "^2.0.11",
     "react": "18.2.0",
     "react-native": "0.72.5",
+<<<<<<< HEAD
     "react-native-vector-icons": "^10.0.0",
     "react-native-web": "~0.19.6"
+=======
+    "react-native-image-picker": "^7.0.0"
+>>>>>>> 71962609cc8d6022734e40828927ab0aca053e2a
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
