@@ -5,7 +5,6 @@ import { StatusBar } from 'expo-status-bar';
 
 export default function App() {
   const handlePress = () => {
-
     console.log('Button Pressed');
   };
 
