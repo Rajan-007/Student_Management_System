@@ -1,7 +1,8 @@
 import React from 'react';
 import { View, Text, TextInput, Image ,TouchableOpacity } from 'react-native';
-import { LinearGradient } from 'expo-linear-gradient'; // Correct import for LinearGradient
+import { LinearGradient } from 'expo-linear-gradient';
 import { StatusBar } from 'expo-status-bar';
+import FontAwesome from '@expo/vector-icons/FontAwesome'
 
 export default function App() {
   const handlePress = () => {
