@@ -7,7 +7,7 @@ import FontAwesome from '@expo/vector-icons/FontAwesome'
 export default function App() {
   const handlePress = () => {
 
-    console.log('Button Pressed');
+    console.log('login Pressed');
   };
 
   return (
